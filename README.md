@@ -1,26 +1,21 @@
-# 🖤🛣️ BlackRoad Data Lineage Tracker
+# BlackRoad Data Lineage Tracker
 
-**Wave 7** | Part of the BlackRoad Product Empire - 400+ enterprise solutions
+End-to-end data lineage tracking from source to dashboard. Know where your data comes from.
 
-## 🚀 Quick Start
+## Features
 
-```bash
-./blackroad-data-lineage-tracker.sh
-```
+- **Auto-Capture** - Extract lineage from SQL, Spark, dbt
+- **Visual Graph** - Interactive lineage visualization
+- **Impact Analysis** - Understand downstream effects
+- **Column-Level** - Fine-grained field tracking
+- **Change Detection** - Alert on schema changes
+- **API Access** - Programmatic lineage queries
 
-## 🎨 BlackRoad Design System
+## Integrations
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
+SQL databases, Spark, dbt, Airflow, Looker, Tableau
 
-## 📚 Documentation
+## License
 
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of **400+ products** across **52 categories**. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude | Wave 7
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
